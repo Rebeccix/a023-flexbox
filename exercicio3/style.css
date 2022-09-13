@@ -26,13 +26,17 @@ section{
 }
 
 #section-2{
+  flex: 1;
 }
 
 #section-3{
+  flex: 1;
 }
 
 #section-4{
+  flex: 1;
 }
 
 #section-5{
+  order: -1;
 }
